@@ -3,7 +3,8 @@
 This repository contains all the resources used while researching about this project.
 
 ### Overview of the project
-Convert audio signal to a matrix (spectrogram) &rarr; Apply SVD &rarr; Convert matrix back to audio signal form
+Convert audio signal to a matrix (spectrogram) &rarr; Apply SVD &rarr; Convert matrix back to audio signal form.
+
 **In bit more detail:**
 (response from Bing - Microsoft Edge)
 Singular Value Decomposition (SVD) is a powerful mathematical technique used in audio compression to reduce file sizes while maintaining sound quality. Here’s a simplified explanation of how it works:
